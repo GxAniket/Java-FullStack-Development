@@ -12,7 +12,13 @@ This repository documents my entire journey of learning **Java Programming**, **
 ---
 
 ## 🧪 Proof of Work  
-*(Screenshots of course dashboards or project work can be added here)*  
+After completing each course, certificates and project screenshots will be added here:  
+
+| Course Name                      | Status        | Certificate Link / Screenshot        |
+|----------------------------------|---------------|------------------------------------- |
+| Fundamentals of Java Programming | ✅ Completed  | [View Certificate](#)               |
+| DSA & Backend with Java          | 🔜 In Progress| Coming Soon                         |
+| Full Stack Development           | 🔜 Upcoming   | Coming Soon                         |
 
 ---
 
