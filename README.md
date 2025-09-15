@@ -4,6 +4,20 @@ This repository documents my entire journey of learning **Java Programming**, **
 
 ---
 
+## 🏆 Certificates  
+
+Here you’ll find proof of completion of each course (PDFs, images, or links):
+
+| Course Name                                   | Status         | Certificate Link / Image |
+|-----------------------------------------------|----------------|--------------------------|
+| Fundamentals of Java Programming              | ✅ Completed   | [View Certificate](https://coursera.org/share/09529087bf2527899e00a287a7feb2c3) |
+| Frontend for Java Full Stack Development      | ✅ Completed   | [View Certificate](link-to-certificate2) |
+| Data Structures & Backend with Java           | ✅ Completed   | [View Certificate](link-to-certificate3) |
+
+*(Replace “link-to-certificate” with your actual certificate URL or image in the repo.)*
+
+---
+
 ## 📘 Courses Covered  
 - ✅ **Fundamentals of Java Programming**  
 - ✅ **Frontend for Java Full Stack Development**  
@@ -14,7 +28,7 @@ This repository documents my entire journey of learning **Java Programming**, **
 ## 🧪 Proof of Work  
 After completing each course, certificates and project screenshots will be added here:  
 
-| Course Name                                   | Status         
+| Course Name                                   | Status         |
 |-----------------------------------------------|----------------|
 | Fundamentals of Java Programming              | ✅ Completed  |    
 | Frontend for Java Full Stack Development      | ✅ Completed  |
@@ -26,6 +40,7 @@ After completing each course, certificates and project screenshots will be added
 Includes assignments and projects from:  
 - Board Infinity Courses  
 - Uttaranchal University Curriculum    
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -48,20 +63,24 @@ Includes assignments and projects from:
 <pre>
 Java-Learning-Path/
 │
-├── 1_Fundamentals_of_Java/
-│ ├── Assignments/
+├── 1_├── Assignments 1/
+│ ├── Assignments 1
+| ├── Assignments 2
+| ├── Assignments 3
 │
 ├── 2_Frontend for Java Full Stack Development/
-│ ├── Assignments/
+│ ├── Assignments 1
+| ├── Assignments 2
+| ├── Assignments 3
 │
 ├── 3_Data Structures & Backend with Java/
-│ ├── Graded Assignments/
+| |
+│ ├── Graded Assignments
 │ ├── Spring and Spring boot Assignments/ 
 │ ├── Final Assignmnet
+|
 └── README.md
 </pre>
-
----
 
 ---
 
