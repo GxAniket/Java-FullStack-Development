@@ -6,28 +6,26 @@ This repository documents my entire journey of learning **Java Programming**, **
 
 ## 📘 Courses Covered  
 - ✅ **Fundamentals of Java Programming**  
-- 🔜 **Data Structures & Backend with Java**  
-- 🔜 **Frontend for Java Full Stack Development**  
+- ✅ **Frontend for Java Full Stack Development**  
+- ✅ **Data Structures & Backend with Java**  
 
 ---
 
 ## 🧪 Proof of Work  
 After completing each course, certificates and project screenshots will be added here:  
 
-| Course Name                      | Status        | Certificate Link / Screenshot        |
-|----------------------------------|---------------|------------------------------------- |
-| Fundamentals of Java Programming | ✅ Completed  | [View Certificate](#)               |
-| DSA & Backend with Java          | 🔜 In Progress| Coming Soon                         |
-| Full Stack Development           | 🔜 Upcoming   | Coming Soon                         |
+| Course Name                                   | Status         
+|-----------------------------------------------|----------------|
+| Fundamentals of Java Programming              | ✅ Completed  |    
+| Frontend for Java Full Stack Development      | ✅ Completed  |
+| Data Structures & Backend with Java           | ✅ Completed  |
 
 ---
 
 ## 🏫 College & Platform Sources  
 Includes assignments and projects from:  
 - Board Infinity Courses  
-- Uttaranchal University Curriculum  
-- LeetCode & Self-Practice Problems  
-
+- Uttaranchal University Curriculum    
 ---
 
 ## 🛠️ Tech Stack  
