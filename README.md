@@ -52,16 +52,14 @@ Java-Learning-Path/
 │
 ├── 1_Fundamentals_of_Java/
 │ ├── Assignments/
-│ ├── Mini_Projects/
 │
-├── 2_DSA_Backend_Java/
-│ ├── DSA_Problems/
-│ ├── Backend_Projects/
+├── 2_Frontend for Java Full Stack Development/
+│ ├── Assignments/
 │
-├── 3_FullStack_Java/
-│ ├── Frontend/
-│ ├── Backend/
-│
+├── 3_Data Structures & Backend with Java/
+│ ├── Graded Assignments/
+│ ├── Spring and Spring boot Assignments/ 
+│ ├── Final Assignmnet
 └── README.md
 </pre>
 
