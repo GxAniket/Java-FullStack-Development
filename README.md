@@ -25,17 +25,6 @@ Here you’ll find proof of completion of each course (PDFs, images, or links):
 
 ---
 
-## 🧪 Proof of Work  
-After completing each course, certificates and project screenshots will be added here:  
-
-| Course Name                                   | Status         |
-|-----------------------------------------------|----------------|
-| Fundamentals of Java Programming              | ✅ Completed  |    
-| Frontend for Java Full Stack Development      | ✅ Completed  |
-| Data Structures & Backend with Java           | ✅ Completed  |
-
----
-
 ## 🏫 College & Platform Sources  
 Includes assignments and projects from:  
 - Board Infinity Courses  
