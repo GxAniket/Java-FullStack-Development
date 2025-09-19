@@ -52,17 +52,12 @@ Includes assignments and projects from:
 <pre>
 Java-Learning-Path/
 │
-├── 1_├── Assignments 1/
+├── 1_Frontend for Java Full Stack Development/
 │ ├── Assignments 1
 | ├── Assignments 2
 | ├── Assignments 3
 │
-├── 2_Frontend for Java Full Stack Development/
-│ ├── Assignments 1
-| ├── Assignments 2
-| ├── Assignments 3
-│
-├── 3_Data Structures & Backend with Java/
+├── 2_Data Structures & Backend with Java/
 | |
 │ ├── Graded Assignments
 │ ├── Spring and Spring boot Assignments/ 
